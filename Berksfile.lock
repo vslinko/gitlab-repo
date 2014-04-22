@@ -1,0 +1,111 @@
+{
+  "sources": {
+    "apt": {
+      "locked_version": "2.3.8"
+    },
+    "ntp": {
+      "locked_version": "1.6.2"
+    },
+    "fail2ban": {
+      "locked_version": "2.1.2"
+    },
+    "git": {
+      "locked_version": "4.0.0"
+    },
+    "zsh": {
+      "locked_version": "1.0.0"
+    },
+    "vim": {
+      "locked_version": "1.1.2"
+    },
+    "vslinko": {
+      "locked_version": "0.1.1"
+    },
+    "gitlab": {
+      "locked_version": "0.6.7",
+      "git": "https://gitlab.com/gitlab-org/cookbook-gitlab.git",
+      "ref": "58e1b83a73cc47b8e656b9b7e7e549bd8d9ac100"
+    },
+    "yum": {
+      "locked_version": "3.2.0"
+    },
+    "yum-epel": {
+      "locked_version": "0.3.6"
+    },
+    "dmg": {
+      "locked_version": "2.2.0"
+    },
+    "build-essential": {
+      "locked_version": "2.0.0"
+    },
+    "windows": {
+      "locked_version": "1.30.2"
+    },
+    "chef_handler": {
+      "locked_version": "1.1.6"
+    },
+    "runit": {
+      "locked_version": "1.5.10"
+    },
+    "sudo": {
+      "locked_version": "2.5.2"
+    },
+    "redisio": {
+      "locked_version": "1.7.1"
+    },
+    "ulimit": {
+      "locked_version": "0.3.2"
+    },
+    "ruby_build": {
+      "locked_version": "0.8.0"
+    },
+    "postgresql": {
+      "locked_version": "3.3.4"
+    },
+    "openssl": {
+      "locked_version": "1.1.0"
+    },
+    "mysql": {
+      "locked_version": "5.1.10"
+    },
+    "database": {
+      "locked_version": "2.1.6"
+    },
+    "aws": {
+      "locked_version": "2.1.1"
+    },
+    "xfs": {
+      "locked_version": "1.1.0"
+    },
+    "mysql-chef_gem": {
+      "locked_version": "0.0.2"
+    },
+    "postfix": {
+      "locked_version": "3.1.8"
+    },
+    "phantomjs": {
+      "locked_version": "1.0.3"
+    },
+    "chocolatey": {
+      "locked_version": "0.1.0"
+    },
+    "powershell": {
+      "locked_version": "3.0.0"
+    },
+    "ms_dotnet45": {
+      "locked_version": "1.1.2"
+    },
+    "ms_dotnet4": {
+      "locked_version": "1.0.2"
+    },
+    "ms_dotnet2": {
+      "locked_version": "1.0.0"
+    },
+    "magic_shell": {
+      "locked_version": "1.0.0"
+    },
+    "monit": {
+      "locked_version": "0.7.1"
+    }
+  }
+}
